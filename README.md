@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36F7F2&width=435&lines=Hi%2C+I%E2%80%99m++Vasiliiy+Kletkin;Backend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=B5F2F7&width=435&lines=Hi%2C+I%E2%80%99m++Vasiliiy+Kletkin;Backend+Developer)](https://git.io/typing-svg)
 - 💬 Ask me about your problems, maybe I can help you.
 - 📫 How to reach me: [telegram](https://t.me/vasiliykletkin), [Gmail](vasiliykletkin@gmail.com).
 - ⚡ Fun fact: I'm behind you.
