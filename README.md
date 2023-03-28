@@ -30,3 +30,9 @@ Here are some ideas to get you started:
 - Docker
 - Git
 - PostgreSQL
+
+### Follow Me
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/VasiliyKletkin)
+<!--[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=6041b2)]()-->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/vasiliy-kletkin-045865253/)
+
