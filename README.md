@@ -18,3 +18,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [telegram](https://t.me/vasiliykletkin), [Gmail](vasiliykletkin@gmail.com).
 - ⚡ Fun fact: I'm behind you.
 
+
+### My skills:
+- Python
+  - Django
+  - FastAPI
+- C++
+- JavaScript
+- HTML
+- CSS
+- Docker
+- Git
+- PostgreSQL
