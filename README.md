@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 - Docker
 - Git
 - PostgreSQL
+- Linux
 
 
 ### Follow Me
