@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 
 ### Follow Me
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/VasiliyKletkin)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/VasiliiKletkin)
 <!--[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=6041b2)]()-->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/vasiliy-kletkin-045865253/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/vasilii-kletkin-045865253/)
 
