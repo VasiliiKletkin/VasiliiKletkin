@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 - Python
   - Django
   - FastAPI
-- C++
-- GO
 - JavaScript
   - Vue
   - React
