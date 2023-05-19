@@ -24,7 +24,10 @@ Here are some ideas to get you started:
   - Django
   - FastAPI
 - C++
+- GO
 - JavaScript
+  - Vue
+  - React
 - HTML
 - CSS
 - Docker
