@@ -11,8 +11,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=D95507&background=FF000000&center=true&vCenter=true&random=false&width=800&lines=Hi%2C+I%E2%80%99m++Vasilii+Kletkin;Full+Stack+Developer)](https://git.io/typing-svg)
 
-<div>
-<img align="right" alt="Coding" width="400" style="box-shadow: 3px 3px 3px gray;" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
+<!-- <img align="right" alt="Coding" width="400" style="box-shadow: 3px 3px 3px gray;" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasiliikletkin&label=Profile%20views&color=0e75b6&style=flat" alt="vasiliikletkin" /> </p>
 
@@ -22,8 +21,6 @@
 - 💬 Ask me about **Javascript, Vue, Django, Docker, FastApi**
 - 📫 How to reach me: [t.me/vasiliikletkin](https://t.me/vasiliikletkin), [kletkinvasilii@gmail.com](kletkinvasilii@gmail.com).
 
-</div>
-<br>
 <!-- - 🍎 My strong **key projects (pins) are below under This Profile**  -->
 
 <!-- 
