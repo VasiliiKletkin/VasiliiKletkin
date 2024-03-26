@@ -183,8 +183,8 @@
 
 <!-- </p>  -->
 
+<h1>Stats</h1>
 
----
 <p><img align="left" style="box-shadow: 3px 3px 3px gray;" src="https://github-readme-stats.vercel.app/api/top-langs?username=vasiliikletkin&show_icons=true&locale=en&layout=compact" alt="vasiliikletkin" /></p>
 
 <p>&nbsp;<img align="center" style="box-shadow: 3px 3px 3px gray;" src="https://github-readme-stats.vercel.app/api?username=vasiliikletkin&show_icons=true&locale=en" alt="vasiliikletkin" /></p>
