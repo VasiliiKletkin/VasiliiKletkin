@@ -7,9 +7,7 @@
 
 <div align="center"><img src="https://i.pinimg.com/originals/6b/cd/f2/6bcdf2799bc8300f6684fe9b432c2c5b.gif" width="100%" height="100%"></img></div>
 
-***<h1 align="center">Hi 👋, I'm Vasilii Kletkin</h1>***
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=500&color=D95507&background=FF000000&center=true&vCenter=true&random=false&width=800&lines=Hi%2C+I%E2%80%99m++Vasilii+Kletkin;Full+Stack+Developer)](https://git.io/typing-svg)
+***`<h1 align="center">`Hi 👋, I'm Vasilii Kletkin`</h1>`***
 
 <img align="right" alt="Coding" width="400" style="box-shadow: 3px 3px 3px gray;" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
@@ -23,7 +21,13 @@
   
 - 🍎 My strong **key projects (pins) are below under This Profile**   
   
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <!-- - 🍎 My strong **key projects (pins) are below under This Profile**  -->
 
 <!-- 
@@ -158,7 +162,6 @@
  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) -->
 
 <!-- </p>  -->
-
 
 <p><img align="left" style="box-shadow: 3px 3px 3px gray;" src="https://github-readme-stats.vercel.app/api/top-langs?username=vasiliikletkin&show_icons=true&locale=en&layout=compact" alt="vasiliikletkin" /></p>
 
