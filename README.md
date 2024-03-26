@@ -28,13 +28,6 @@
   
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <!-- - 🍎 My strong **key projects (pins) are below under This Profile**  -->
 
