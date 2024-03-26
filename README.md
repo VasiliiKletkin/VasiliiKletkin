@@ -14,7 +14,7 @@
 
 <img align="right" alt="Coding" width="400" style="box-shadow: 3px 3px 3px gray;" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vasiliikletkin&label=Profile%20views&color=0e75b6&style=flat" alt="vasiliikletkin" /> </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasiliikletkin&label=Profile%20views&color=0e75b6&style=flat" alt="vasiliikletkin" /> </p>
 
 - 🔭 I’m **Full stack developer**  
   
@@ -22,9 +22,9 @@
   
 - 💬 Ask me about **Javascript, Vue, Django, Docker, FastApi**  
   
-- 📫 How to reach me: [t.me/vasiliikletkin](https://t.me/vasiliikletkin), [kletkinvasilii@gmail.com](kletkinvasilii@gmail.com).  
+- 📫 How to reach me: [t.me/vasiliikletkin](https://t.me/vasiliikletkin), [kletkinvasilii@gmail.com](kletkinvasilii@gmail.com)  
   
-- 🍎 My strong **key projects (pins) are below under This Profile**   
+<!-- - 🍎 My strong **key projects (pins) are below under This Profile**    -->
   
 <br>
 <br>
@@ -33,6 +33,9 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+
 <!-- - 🍎 My strong **key projects (pins) are below under This Profile**  -->
 
 <!-- 
