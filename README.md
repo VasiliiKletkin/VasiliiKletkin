@@ -13,18 +13,16 @@
 
 <img align="right" alt="Coding" width="400" style="box-shadow: 3px 3px 3px gray;" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
-- 🔭 I’m **Full stack developer**
-
-- 👨‍💻 All of my projects are available at [Vasilii Kletkin Portfolio](https://vasiliikletkin.github.io/Portfolio/),
-
-- 💬 Ask me about **Javascript, Vue, Django, Docker, FastApi**
-
-- 📫 How to reach me: [t.me/vasiliikletkin](https://t.me/vasiliikletkin), [kletkinvasilii@gmail.com](kletkinvasilii@gmail.com).
- 
-- 🍎 My strong **key projects (pins) are below under This Profile** 
- 
- 
- 
+- 🔭 I’m **Full stack developer**  
+  
+- 👨‍💻 All of my projects are available at [Vasilii Kletkin Portfolio](https://vasiliikletkin.github.io/Portfolio/)  
+  
+- 💬 Ask me about **Javascript, Vue, Django, Docker, FastApi**  
+  
+- 📫 How to reach me: [t.me/vasiliikletkin](https://t.me/vasiliikletkin), [kletkinvasilii@gmail.com](kletkinvasilii@gmail.com).  
+  
+- 🍎 My strong **key projects (pins) are below under This Profile**   
+  
 
 <!-- - 🍎 My strong **key projects (pins) are below under This Profile**  -->
 
