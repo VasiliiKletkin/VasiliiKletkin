@@ -164,7 +164,7 @@
 <!-- </p>  -->
 
 ---
-<h2>Stats </h2>
+<h2 align="left">Stats </h2>
 
 <p><img align="left" style="box-shadow: 3px 3px 3px gray;" src="https://github-readme-stats.vercel.app/api/top-langs?username=vasiliikletkin&show_icons=true&locale=en&layout=compact" alt="vasiliikletkin" /></p>
 
