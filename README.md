@@ -9,9 +9,12 @@
 
 ***<h1 align="center">Hi 👋, I'm Vasilii Kletkin</h1>***
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=500&color=D95507&background=FF000000&center=false&vCenter=false&random=false&width=800&lines=Hi%2C+I%E2%80%99m++Vasilii+Kletkin;Full+Stack+Developer)](https://git.io/typing-svg)
+
+
 <img align="right" alt="Coding" width="400" style="box-shadow: 3px 3px 3px gray;" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=500&color=D95507&background=FF000000&center=false&vCenter=false&random=false&width=800&lines=Hi%2C+I%E2%80%99m++Vasilii+Kletkin;Full+Stack+Developer)](https://git.io/typing-svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vasiliikletkin&label=Profile%20views&color=0e75b6&style=flat" alt="vasiliikletkin" /> </p>
 
 - 🔭 I’m **Full stack developer**  
   
@@ -171,4 +174,3 @@
 
 <!-- <p><img align="center" style="box-shadow: 3px 3px 3px gray;" src="https://github-readme-streak-stats.herokuapp.com/?user=vasiliikletkin&" alt="vasiliikletkin" /></p> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vasiliikletkin&label=Profile%20views&color=0e75b6&style=flat" alt="vasiliikletkin" /> </p>
