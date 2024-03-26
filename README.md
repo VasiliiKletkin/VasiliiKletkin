@@ -7,7 +7,7 @@
 
 <div align="center"><img src="https://i.pinimg.com/originals/6b/cd/f2/6bcdf2799bc8300f6684fe9b432c2c5b.gif" width="100%" height="100%"></img></div>
 
-***`<h1 align="center">`Hi 👋, I'm Vasilii Kletkin`</h1>`***
+***<h1 align="center">`Hi 👋, I'm Vasilii Kletkin`</h1>***
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=D95507&background=FF000000&center=true&vCenter=true&random=false&width=800&lines=Hi%2C+I%E2%80%99m++Vasilii+Kletkin;Full+Stack+Developer)](https://git.io/typing-svg)
 
