@@ -11,6 +11,8 @@
 
 <img align="right" alt="Coding" width="400" style="box-shadow: 3px 3px 3px gray;" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=500&color=D95507&background=FF000000&center=false&vCenter=false&random=false&width=800&lines=Hi%2C+I%E2%80%99m++Vasilii+Kletkin;Full+Stack+Developer)](https://git.io/typing-svg)
+
 - 🔭 I’m **Full stack developer**  
   
 - 👨‍💻 All of my projects are available at [Vasilii Kletkin Portfolio](https://vasiliikletkin.github.io/Portfolio/)  
